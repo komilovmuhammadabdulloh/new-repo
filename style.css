@@ -1,8 +1,6 @@
 body {
-    background: #09ff09;
-}
-
-h1 {
-    font-size: 90px;
-    font-family: 'Courier New', Courier, monospace;
+  background-color: #000;    
+  margin: 0;
+  overflow: hidden;
+  background-repeat: no-repeat;
 }
